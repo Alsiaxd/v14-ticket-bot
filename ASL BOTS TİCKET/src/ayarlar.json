@@ -1,0 +1,22 @@
+{
+    "Bot": {
+        "SunucuID": "1272467502437367821"
+    },
+    "botDurum": [
+        "ASL BOT’S®"
+    ],
+    "Embed": {
+        "SunucuAD": "ᴀꜱʟ ʙᴏᴛ’ꜱ ",
+        "footerText": "ASL BOT’S®",
+        "link": "https://discord.gg/aslbots"
+    },
+    "Yetkiler": {
+        "Staff": ["1272469298350395472"],
+        "yetkili": "1272469298350395472"
+    },
+    "Resimler": {
+        "moderasyonURL": "https://i.ibb.co/7YHHJPz/aslgif1-min.gif"
+    },
+    "parentCategory": "1272469428159774783",
+    "ticketLog": "1275527952976842824"
+}
